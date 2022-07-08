@@ -1,0 +1,11 @@
+# https://stackoverflow.com/questions/2462480/using-git-with-vb6
+.DS_Store
+.Trashes
+*.vbw
+*.csi
+*.exp
+*.lib
+*.lvw
+*.dca
+*.scc
+*.tmp
